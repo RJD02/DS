@@ -50,7 +50,7 @@
     clear();
     do {
       printf("Enter a choice from the following options: \n");
-      printf("1.Clear\n2.Push\n3.Pop\n4.Display\n5.Display sum\n6.Exit\n");
+      printf("1.Clear\n2.Push\n3.Pop\n4.Display\n5.Exit\n");
       printf("Enter your choice here: ");
       scanf("%d", &ch);
       switch (ch) {
